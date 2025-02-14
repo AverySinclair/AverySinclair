@@ -8,8 +8,5 @@ Welcome to my GitHub profile! I'm a software developer passionate about open-sou
 - 💬 Ask me about **JavaScript, Python, and GitHub Actions**
 - 📫 How to reach me: [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-## 📊 GitHub Stats
-![Avery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AverySinclair&show_icons=true&theme=radical)
-
 ---
 ⭐️ _Feel free to explore my repositories and contribute!_

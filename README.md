@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Avery Sinclair! 👋
 
-<!--
-**AverySinclair/AverySinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer passionate about open-source, AI, and web development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on [Project XYZ](https://github.com/yourproject)
+- 🌱 I’m learning **Rust and Machine Learning**
+- 💬 Ask me about **JavaScript, Python, and GitHub Actions**
+- 📫 How to reach me: [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Avery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AverySinclair&show_icons=true&theme=radical)
+
+---
+⭐️ _Feel free to explore my repositories and contribute!_

@@ -12,25 +12,5 @@ Welcome to my GitHub profile! I'm a software developer passionate about **Solana
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
----
-
-## 🔥 Recent Contributions
-<!-- Dynamic contribution activity -->
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&margin-w=5)
-
----
-
 ⭐ _Feel free to explore my repositories and contribute!_
 
